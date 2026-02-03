@@ -165,8 +165,20 @@ DEVICE_METADATA: Dict[str, DeviceMeta] = {
 
 # ... skipping Pad 3/2 section ...
 
+    "Open": {
+        "name": "OnePlus Open",
+        "models": {
+            "EU": "CPH2551",
+            "IN": "CPH2551",
+            "NA": "CPH2551"
+        }
+    },
+
     "Find X8": {
         "name": "Oppo Find X8",
+# ... (rest of file)
+
+
         "models": {
             "CN": "PKB110",
             "IN": "CPH2651"
@@ -233,7 +245,8 @@ SPRING_MAPPING = {
     "oneplus_pad_2": "OP PAD2",
     "oppo_find_x8": "OPPO FIND X8",
     "oppo_find_x8_pro": "OPPO FIND X8 PRO",
-    "oppo_find_x8_ultra": "OPPO FIND X8 ULTRA"
+    "oppo_find_x8_ultra": "OPPO FIND X8 ULTRA",
+    "oneplus_open": "OP OPEN"
 }
 
 
@@ -268,7 +281,8 @@ OOS_MAPPING = {
     "Find X8": "oppo_find_x8",
     "Find X8 Pro": "oppo_find_x8_pro",
     "Find X8 Ultra": "oppo_find_x8_ultra",
-    "Find N3": "oppo_find_n3"
+    "Find N3": "oppo_find_n3",
+    "Open": "oneplus_open"
 }
 
 
