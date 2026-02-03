@@ -48,9 +48,19 @@ def process_data(history_data):
             'variants': []
         }
 
-        # Standard regions order
-        # Standard regions order
-        regions = ['GLO', 'EU', 'IN', 'NA', 'CN']
+        # Determine available regions for this device
+        preferred_regions = ['GLO', 'EU', 'IN', 'NA', 'CN']
+        available_regions = set(meta.get('models', {}).keys())
+        
+        # Also check if there are history files for regions not in config
+        for key in history_data:
+            if key.startswith(f"{device_id}_"):
+                available_regions.add(key.replace(f"{device_id}_", ""))
+                
+        # Order: preferred first, then others sorted
+        regions = [r for r in preferred_regions if r in available_regions]
+        others = sorted([r for r in available_regions if r not in preferred_regions])
+        regions.extend(others)
 
         for variant in regions:
             key = f'{device_id}_{variant}'

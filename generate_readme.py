@@ -47,12 +47,21 @@ def get_region_name(variant: str) -> str:
 def generate_device_section(device_id: str, device_name: str, history_data: Dict) -> List[str]:
     """Generate a single table for one device across all regions."""
     lines = [f'### {device_name}', '']
-    
     # Check if we have any data for this device
     active_regions = []
-    # Use standard regions order
-    # Use standard regions order
-    regions = ['GLO', 'EU', 'IN', 'NA', 'CN']
+    # Determine available regions for this device
+    preferred_regions = ['GLO', 'EU', 'IN', 'NA', 'CN']
+    available_regions = set(DEVICE_METADATA.get(device_id, {}).get('models', {}).keys())
+    
+    # Also check if there are history files for regions not in config
+    for key in history_data:
+        if key.startswith(f"{device_id}_"):
+            available_regions.add(key.replace(f"{device_id}_", ""))
+            
+    # Order: preferred first, then others sorted
+    regions = [r for r in preferred_regions if r in available_regions]
+    others = sorted([r for r in available_regions if r not in preferred_regions])
+    regions.extend(others)
     
     for variant in regions:
         key = f'{device_id}_{variant}'

@@ -30,7 +30,6 @@ DEVICE_METADATA: Dict[str, DeviceMeta] = {
             "GLO": "CPH2747",
             "EU": "CPH2747",
             "IN": "CPH2745",
-            "NA": "Unknown",
             "CN": "PLK110"
         }
     },
@@ -181,28 +180,39 @@ DEVICE_METADATA: Dict[str, DeviceMeta] = {
         }
     },
 
-    "Find X8": {
-        "name": "Oppo Find X8",
-# ... (rest of file)
-
-
+    "Find X5 Pro": {
+        "name": "Oppo Find X5 Pro",
         "models": {
-            "CN": "PKB110",
-            "IN": "CPH2651"
+            "EU": "CPH2305",
+            "EG": "CPH2305",
+            "OCA": "CPH2305",
+            "SG": "CPH2305",
+            "TW": "CPH2305",
+            "CN": "PFEM10"
         }
     },
-    "Find X8 Pro": {
-        "name": "Oppo Find X8 Pro",
+    "Find X5": {
+        "name": "Oppo Find X5",
         "models": {
-            "CN": "PKC110",
-            "EU": "CPH2659",
-            "IN": "CPH2659"
+            "GLO": "CPH2307",
+            "EU": "CPH2307",
+            "IN": "CPH2307",
+            "CN": "PFFM10"
         }
     },
+
     "Find X8 Ultra": {
         "name": "Oppo Find X8 Ultra",
         "models": {
             "CN": "PKJ110"
+        }
+    },
+    "Find N5": {
+        "name": "Oppo Find N5",
+        "models": {
+            "SG": "CPH2671",
+            "MY": "CPH2671",
+            "CN": "PKV110"
         }
     },
     "Pad 3": {
@@ -251,10 +261,11 @@ SPRING_MAPPING = {
     "oneplus_pad2_pro": "OP PAD2 PRO",
     "oneplus_pad_3": "OP PAD3",
     "oneplus_pad_2": "OP PAD2",
-    "oppo_find_x8": "OPPO FIND X8",
-    "oppo_find_x8_pro": "OPPO FIND X8 PRO",
+    "oneplus_open": "OP OPEN",
     "oppo_find_x8_ultra": "OPPO FIND X8 ULTRA",
-    "oneplus_open": "OP OPEN"
+    "oppo_find_n5": "OPPO FIND N5",
+    "oppo_find_x5_pro": "OPPO FIND X5 PRO",
+    "oppo_find_x5": "OPPO FIND X5"
 }
 
 
@@ -286,10 +297,11 @@ OOS_MAPPING = {
     "Pad 2 Pro": "oneplus_pad2_pro",
     "Pad 3": "oneplus_pad_3",
     "Pad 2": "oneplus_pad_2",
-    "Find X8": "oppo_find_x8",
-    "Find X8 Pro": "oppo_find_x8_pro",
     "Find X8 Ultra": "oppo_find_x8_ultra",
+    "Find N5": "oppo_find_n5",
     "Find N3": "oppo_find_n3",
+    "Find X5 Pro": "oppo_find_x5_pro",
+    "Find X5": "oppo_find_x5",
     "Open": "oneplus_open"
 }
 
