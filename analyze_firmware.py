@@ -28,17 +28,25 @@ def run_command(cmd, cwd=None):
         return None
     return result.stdout
 
-def analyze_firmware(zip_path, tools_dir, output_dir):
+import shutil
+
+def analyze_firmware(zip_path, tools_dir, output_dir, final_dir=None):
     zip_path = Path(zip_path).resolve()
     tools_dir = Path(tools_dir).resolve()
     output_dir = Path(output_dir).resolve()
+    final_dir = Path(final_dir).resolve() if final_dir else Path("firmware_data").resolve()
     
     otaripper = tools_dir / "otaripper"
     arbextract = tools_dir / "arbextract"
     
-    # 1. Extract xbl_config
-    if not output_dir.exists():
-        output_dir.mkdir(parents=True)
+    # 1. Clean/Create directories
+    # We use output_dir as temp extraction
+    if output_dir.exists():
+        shutil.rmtree(output_dir)
+    output_dir.mkdir(parents=True)
+    
+    if not final_dir.exists():
+        final_dir.mkdir(parents=True)
         
     # otaripper <zip> -p <partitions> -o <output>
     # Add -n to prevent opening folder
@@ -46,18 +54,28 @@ def analyze_firmware(zip_path, tools_dir, output_dir):
     if not run_command(cmd_extract):
         return None
         
-    # 2. Find extracted image
-    # pattern: matches anything with xbl_config inside extracted folder
-    # Use rglob to search recursively because otaripper creates a subdirectory
+    # 2. Find extracted image recursively
+    # otaripper might create subdirectories with timestamps
     img_files = list(output_dir.rglob("*xbl_config*.img"))
     if not img_files:
         logger.error("xbl_config image not found in extraction output")
         return None
     
-    img_file = img_files[0]
+    # Take the first one found
+    src_img = img_files[0]
+    final_img = final_dir / "xbl_config.img"
     
-    # 3. Run arbextract
-    cmd_arb = [str(arbextract), str(img_file)]
+    logger.info(f"Found image: {src_img}")
+    logger.info(f"Moving to: {final_img}")
+    
+    # Move and rename
+    shutil.move(src_img, final_img)
+    
+    # Cleanup temp extraction
+    shutil.rmtree(output_dir)
+    
+    # 3. Run arbextract on the FINAL file
+    cmd_arb = [str(arbextract), str(final_img)]
     output = run_command(cmd_arb)
     if not output:
         return None
@@ -88,11 +106,12 @@ def main():
     parser.add_argument("zip_path", help="Path to firmware.zip")
     parser.add_argument("--tools-dir", default="tools", help="Directory containing payload-dumper and arbextract")
     parser.add_argument("--output-dir", default="extracted", help="Directory for extraction")
+    parser.add_argument("--final-dir", default="firmware_data", help="Directory for final xbl_config.img")
     parser.add_argument("--json", action="store_true", help="Output result as JSON")
     
     args = parser.parse_args()
     
-    result = analyze_firmware(args.zip_path, args.tools_dir, args.output_dir)
+    result = analyze_firmware(args.zip_path, args.tools_dir, args.output_dir, args.final_dir)
     
     if result:
         if args.json:

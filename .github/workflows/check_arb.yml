@@ -167,7 +167,12 @@ jobs:
         if: steps.cache-arb.outputs.cache-hit != 'true' && hashFiles('skip_check.txt') == ''
         run: |
           # Use the new standalone script
-          python3 analyze_firmware.py firmware.zip --tools-dir tools --output-dir extracted --json > result.json
+          # It extracts to 'extracted' (temp) and moves final file to 'firmware_data/xbl_config.img'
+          python3 analyze_firmware.py firmware.zip \
+            --tools-dir tools \
+            --output-dir extracted \
+            --final-dir firmware_data \
+            --json > result.json
           
           # Inject extra metadata into result.json for update_history.py
           # (We could have passed these to analyze_firmware.py, but it's pure analysis)
@@ -195,12 +200,12 @@ jobs:
           path: result.json
       
       - name: Save ARB Cache
-        if: steps.cache-arb.outputs.cache-hit != 'true' && hashFiles('extracted/xbl_config*') != ''
+        if: steps.cache-arb.outputs.cache-hit != 'true' && hashFiles('firmware_data/xbl_config.img') != ''
         uses: actions/cache/save@v4
         with:
           path: |
             arb_check_done.txt
-            extracted/
+            firmware_data/
           key: arb-check-v6-${{ matrix.device }}-${{ matrix.variant }}-${{ steps.get_details.outputs.version }}
 
       - name: Upload JSON History
