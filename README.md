@@ -78,7 +78,7 @@ Automated ARB (Anti-Rollback) index tracker for OnePlus devices. This repository
 | Europe | CPH2649 | CPH2653_16.0.3.501(EX01) | **1** | Major: **3**,&nbsp;Minor: **0** | 2026-02-04 | ❌ |
 | India | CPH2649 | CPH2649_16.0.3.501(EX01) | **1** | Major: **3**,&nbsp;Minor: **0** | 2026-02-04 | ❌ |
 | NA | CPH2655 | CPH2655_15.0.0.832(EX01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-02-04 | ✅ |
-| China | PJZ110 | PJZ110_16.0.3.501(CN01) | **1** | Major: **3**,&nbsp;Minor: **0** | 2026-02-04 | ❌ |
+| China | PJZ110 | PJZ110_16.0.3.502(CN01) | **1** | Major: **3**,&nbsp;Minor: **0** | 2026-02-05 | ❌ |
 
 ---
 
@@ -120,7 +120,7 @@ Automated ARB (Anti-Rollback) index tracker for OnePlus devices. This repository
 | Region | Model | Firmware Version | ARB Index | OEM Version | Last Checked | Safe |
 |--------|-------|------------------|-----------|-------------|--------------|------|
 | Europe | CPH2551 | CPH2551_16.0.2.400(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-02-04 | ✅ |
-| India | CPH2551 | CPH2551_16.0.2.400(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-02-04 | ✅ |
+| India | CPH2551 | CPH2551_16.0.3.500(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-02-05 | ✅ |
 | NA | CPH2551 | CPH2551_15.0.0.822(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-02-04 | ✅ |
 
 ---
@@ -131,7 +131,7 @@ Automated ARB (Anti-Rollback) index tracker for OnePlus devices. This repository
 |--------|-------|------------------|-----------|-------------|--------------|------|
 | Global | CPH2449 | CPH2449_16.0.2.400(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-02-04 | ✅ |
 | Europe | CPH2449 | CPH2449_16.0.2.401(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-02-04 | ✅ |
-| India | CPH2447 | CPH2447_16.0.2.400(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-02-04 | ✅ |
+| India | CPH2447 | CPH2447_16.0.3.500(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-02-05 | ✅ |
 | NA | CPH2451 | CPH2451_15.0.0.800(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-02-04 | ✅ |
 
 ---
