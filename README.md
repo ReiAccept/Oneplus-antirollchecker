@@ -28,8 +28,8 @@ Automated ARB (Anti-Rollback) index tracker for OnePlus devices. This repository
 
 | Region | Model | Firmware Version | ARB Index | OEM Version | Last Checked | Safe |
 |--------|-------|------------------|-----------|-------------|--------------|------|
-| Global | CPH2747 | CPH2747_16.0.3.501(EX01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-02-04 | ✅ |
-| Europe | CPH2747 | CPH2747_16.0.3.501(EX01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-02-04 | ✅ |
+| Global | CPH2747 | CPH2747_16.0.3.503(EX01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-02-11 | ✅ |
+| Europe | CPH2747 | CPH2747_16.0.3.503(EX01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-02-11 | ✅ |
 | India | CPH2745 | CPH2745_16.0.3.503(EX01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-02-04 | ✅ |
 | China | PLK110 | PLK110_16.0.3.503(CN01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-02-04 | ✅ |
 
@@ -161,7 +161,7 @@ Automated ARB (Anti-Rollback) index tracker for OnePlus devices. This repository
 | Region | Model | Firmware Version | ARB Index | OEM Version | Last Checked | Safe |
 |--------|-------|------------------|-----------|-------------|--------------|------|
 | Global | CPH2417 | CPH2415_15.0.0.1603(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-02-10 | ✅ |
-| Europe | CPH2415 | CPH2415_15.0.0.1601(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-02-04 | ✅ |
+| Europe | CPH2415 | CPH2415_15.0.0.1603(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-02-11 | ✅ |
 | India | CPH2413 | CPH2413_15.0.0.1603(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-02-06 | ✅ |
 | NA | CPH2417 | CPH2417_11_C.46 | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-02-04 | ✅ |
 
