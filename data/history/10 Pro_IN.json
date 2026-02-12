@@ -1,6 +1,15 @@
 {
   "history": [
     {
+      "version": "NE2211_16.0.3.510(EX01)",
+      "arb": 0,
+      "major": 2,
+      "minor": 0,
+      "first_seen": "2026-02-12",
+      "last_checked": "2026-02-12",
+      "status": "current"
+    },
+    {
       "version": "NE2211_15.0.0.700(EX01)",
       "arb": 0,
       "major": 2,
@@ -25,7 +34,7 @@
       "minor": 0,
       "first_seen": "2026-02-02",
       "last_checked": "2026-02-04",
-      "status": "current"
+      "status": "archived"
     }
   ],
   "device": "OnePlus 10 Pro",
