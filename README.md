@@ -248,7 +248,7 @@ Automated ARB (Anti-Rollback) index tracker for OnePlus devices. This repository
 | Region | Model | Firmware Version | ARB Index | OEM Version | Last Checked | Safe |
 |--------|-------|------------------|-----------|-------------|--------------|------|
 | Global | CPH2307 | CPH2307_15.0.0.1304(EX01) | **0** | Major: **0**,&nbsp;Minor: **120** | 2026-02-03 | ✅ |
-| Europe | CPH2307 | CPH2307_15.0.0.1304(EX01) | **0** | Major: **0**,&nbsp;Minor: **120** | 2026-02-04 | ✅ |
+| Europe | CPH2307 | CPH2307_15.0.0.1600(EX01) | **0** | Major: **0**,&nbsp;Minor: **120** | 2026-02-27 | ✅ |
 | India | CPH2307 | CPH2307_15.0.0.1304(EX01) | **0** | Major: **0**,&nbsp;Minor: **120** | 2026-02-03 | ✅ |
 | EG | CPH2307 | CPH2307_15.0.0.1600(EX01) | **0** | Major: **0**,&nbsp;Minor: **120** | 2026-02-25 | ✅ |
 | OCA | CPH2307 | CPH2307_15.0.0.1302(EX01) | **0** | Major: **0**,&nbsp;Minor: **120** | 2026-02-04 | ✅ |
