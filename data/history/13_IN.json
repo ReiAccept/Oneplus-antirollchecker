@@ -1,6 +1,15 @@
 {
   "history": [
     {
+      "version": "CPH2649_16.0.5.701(EX01)",
+      "arb": 1,
+      "major": 3,
+      "minor": 0,
+      "first_seen": "2026-03-17",
+      "last_checked": "2026-03-17",
+      "status": "current"
+    },
+    {
       "version": "CPH2649_16.0.1.304(EX01)",
       "arb": 0,
       "major": 3,
@@ -25,7 +34,7 @@
       "minor": 0,
       "first_seen": "2026-01-27",
       "last_checked": "2026-02-04",
-      "status": "current"
+      "status": "archived"
     }
   ],
   "device": "OnePlus 13",
