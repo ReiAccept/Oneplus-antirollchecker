@@ -119,7 +119,7 @@ Automated ARB (Anti-Rollback) index tracker for OnePlus devices. This repository
 
 | Region | Model | Firmware Version | ARB Index | OEM Version | Last Checked | Safe |
 |--------|-------|------------------|-----------|-------------|--------------|------|
-| Europe | CPH2551 | CPH2551_16.0.3.500(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-02-07 | ✅ |
+| Europe | CPH2551 | CPH2551_16.0.3.505(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-03-22 | ✅ |
 | India | CPH2551 | CPH2551_16.0.3.505(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-03-17 | ✅ |
 | NA | CPH2551 | CPH2551_15.0.0.822(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-02-04 | ✅ |
 
@@ -224,10 +224,10 @@ Automated ARB (Anti-Rollback) index tracker for OnePlus devices. This repository
 | ID | CPH2499 | CPH2499_16.0.3.505(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-03-18 | ✅ |
 | MY | CPH2499 | CPH2499_16.0.3.500(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-02-04 | ✅ |
 | OCA | CPH2499 | CPH2499_16.0.3.500(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-02-12 | ✅ |
-| SG | CPH2499 | CPH2499_16.0.3.500(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-02-04 | ✅ |
-| TH | CPH2499 | CPH2499_16.0.3.500(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-02-04 | ✅ |
+| SG | CPH2499 | CPH2499_16.0.3.505(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-03-22 | ✅ |
+| TH | CPH2499 | CPH2499_16.0.3.505(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-03-22 | ✅ |
 | TW | CPH2499 | CPH2499_16.0.3.500(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-02-04 | ✅ |
-| VN | CPH2499 | CPH2499_16.0.3.500(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-02-04 | ✅ |
+| VN | CPH2499 | CPH2499_16.0.3.505(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-03-22 | ✅ |
 
 ---
 
