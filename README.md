@@ -41,7 +41,7 @@ Automated ARB (Anti-Rollback) index tracker for OnePlus devices. This repository
 |--------|-------|------------------|-----------|-------------|--------------|------|
 | Global | OPD2415 | OPD2415_16.0.3.500(EX01) | **1** | Major: **3**,&nbsp;Minor: **0** | 2026-02-04 | ❌ |
 | Europe | OPD2415 | OPD2415_16.0.3.500(EX01) | **1** | Major: **3**,&nbsp;Minor: **0** | 2026-02-04 | ❌ |
-| India | OPD2415 | OPD2415_16.0.3.500(EX01) | **1** | Major: **3**,&nbsp;Minor: **0** | 2026-02-04 | ❌ |
+| India | OPD2415 | OPD2415_16.0.5.700(EX01) | **1** | Major: **3**,&nbsp;Minor: **0** | 2026-03-26 | ❌ |
 | NA | OPD2415 | OPD2415_15.0.1.500(EX01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-02-04 | ✅ |
 
 ---
@@ -96,8 +96,8 @@ Automated ARB (Anti-Rollback) index tracker for OnePlus devices. This repository
 
 | Region | Model | Firmware Version | ARB Index | OEM Version | Last Checked | Safe |
 |--------|-------|------------------|-----------|-------------|--------------|------|
-| Global | CPH2573 | CPH2581_16.0.3.500(EX01) | **1** | Major: **3**,&nbsp;Minor: **0** | 2026-02-04 | ❌ |
-| Europe | CPH2573 | CPH2581_16.0.3.500(EX01) | **1** | Major: **3**,&nbsp;Minor: **0** | 2026-02-04 | ❌ |
+| Global | CPH2573 | CPH2581_16.0.5.702(EX01) | **1** | Major: **3**,&nbsp;Minor: **0** | 2026-03-26 | ❌ |
+| Europe | CPH2573 | CPH2581_16.0.5.702(EX01) | **1** | Major: **3**,&nbsp;Minor: **0** | 2026-03-26 | ❌ |
 | India | CPH2573 | CPH2573_16.0.5.702(EX01) | **1** | Major: **3**,&nbsp;Minor: **0** | 2026-03-24 | ❌ |
 | NA | CPH2583 | CPH2583_16.0.3.500(EX01) | **1** | Major: **3**,&nbsp;Minor: **0** | 2026-03-10 | ❌ |
 | China | PJD110 | PJD110_16.0.3.500(CN01) | **1** | Major: **3**,&nbsp;Minor: **0** | 2026-02-04 | ❌ |
@@ -208,12 +208,12 @@ Automated ARB (Anti-Rollback) index tracker for OnePlus devices. This repository
 | Region | Model | Firmware Version | ARB Index | OEM Version | Last Checked | Safe |
 |--------|-------|------------------|-----------|-------------|--------------|------|
 | China | PKV110 | PKH110_16.0.3.500(CN01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-02-04 | ✅ |
-| APC | CPH2671 | CPH2671_16.0.2.401(EX01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-02-04 | ✅ |
+| APC | CPH2671 | CPH2671_16.0.5.700(EX01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-03-26 | ✅ |
 | ID | CPH2671 | CPH2671_16.0.5.700(EX01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-03-19 | ✅ |
-| MX | CPH2671 | CPH2671_16.0.1.302(EX01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-02-04 | ✅ |
-| MY | CPH2671 | CPH2671_16.0.2.401(EX01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-02-04 | ✅ |
-| SG | CPH2671 | CPH2671_16.0.2.401(EX01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-02-04 | ✅ |
-| TH | CPH2671 | CPH2671_16.0.2.401(EX01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-02-04 | ✅ |
+| MX | CPH2671 | CPH2671_16.0.5.700(EX01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-03-26 | ✅ |
+| MY | CPH2671 | CPH2671_16.0.5.700(EX01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-03-26 | ✅ |
+| SG | CPH2671 | CPH2671_16.0.5.700(EX01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-03-26 | ✅ |
+| TH | CPH2671 | CPH2671_16.0.5.700(EX01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-03-26 | ✅ |
 
 ---
 

@@ -1,6 +1,15 @@
 {
   "history": [
     {
+      "version": "CPH2581_16.0.5.702(EX01)",
+      "arb": 1,
+      "major": 3,
+      "minor": 0,
+      "first_seen": "2026-03-26",
+      "last_checked": "2026-03-26",
+      "status": "current"
+    },
+    {
       "version": "CPH2581_16.0.0.201(EX01)",
       "arb": 0,
       "major": 3,
@@ -25,7 +34,7 @@
       "minor": 0,
       "first_seen": "2026-01-27",
       "last_checked": "2026-02-04",
-      "status": "current"
+      "status": "archived"
     }
   ],
   "device": "OnePlus 12",
