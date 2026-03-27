@@ -39,8 +39,8 @@ Automated ARB (Anti-Rollback) index tracker for OnePlus devices. This repository
 
 | Region | Model | Firmware Version | ARB Index | OEM Version | Last Checked | Safe |
 |--------|-------|------------------|-----------|-------------|--------------|------|
-| Global | OPD2415 | OPD2415_16.0.3.500(EX01) | **1** | Major: **3**,&nbsp;Minor: **0** | 2026-02-04 | ❌ |
-| Europe | OPD2415 | OPD2415_16.0.3.500(EX01) | **1** | Major: **3**,&nbsp;Minor: **0** | 2026-02-04 | ❌ |
+| Global | OPD2415 | OPD2415_16.0.5.700(EX01) | **1** | Major: **3**,&nbsp;Minor: **0** | 2026-03-27 | ❌ |
+| Europe | OPD2415 | OPD2415_16.0.5.700(EX01) | **1** | Major: **3**,&nbsp;Minor: **0** | 2026-03-27 | ❌ |
 | India | OPD2415 | OPD2415_16.0.5.700(EX01) | **1** | Major: **3**,&nbsp;Minor: **0** | 2026-03-26 | ❌ |
 | NA | OPD2415 | OPD2415_15.0.1.500(EX01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-02-04 | ✅ |
 
@@ -86,8 +86,8 @@ Automated ARB (Anti-Rollback) index tracker for OnePlus devices. This repository
 
 | Region | Model | Firmware Version | ARB Index | OEM Version | Last Checked | Safe |
 |--------|-------|------------------|-----------|-------------|--------------|------|
-| Global | OPD2403 | OPD2403_16.0.3.501(EX01) | **1** | Major: **3**,&nbsp;Minor: **0** | 2026-02-04 | ❌ |
-| Europe | OPD2403 | OPD2403_16.0.3.501(EX01) | **1** | Major: **3**,&nbsp;Minor: **0** | 2026-02-04 | ❌ |
+| Global | OPD2403 | OPD2403_16.0.5.701(EX01) | **1** | Major: **3**,&nbsp;Minor: **0** | 2026-03-27 | ❌ |
+| Europe | OPD2403 | OPD2403_16.0.5.701(EX01) | **1** | Major: **3**,&nbsp;Minor: **0** | 2026-03-27 | ❌ |
 | India | OPD2403 | OPD2403_16.0.5.701(EX01) | **1** | Major: **3**,&nbsp;Minor: **0** | 2026-03-24 | ❌ |
 
 ---
