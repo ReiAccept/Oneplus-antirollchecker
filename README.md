@@ -148,7 +148,7 @@ Automated ARB (Anti-Rollback) index tracker for OnePlus devices. This repository
 
 | Region | Model | Firmware Version | ARB Index | OEM Version | Last Checked | Safe |
 |--------|-------|------------------|-----------|-------------|--------------|------|
-| Global | NE2215 | NE2213_16.0.3.500(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-02-07 | ✅ |
+| Global | NE2215 | NE2213_16.0.3.520(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-03-31 | ✅ |
 | Europe | NE2213 | NE2213_16.0.3.500(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-02-07 | ✅ |
 | India | NE2211 | NE2211_16.0.3.520(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-03-18 | ✅ |
 | NA | NE2215 | NE2215_15.0.0.401(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-02-04 | ✅ |
@@ -239,7 +239,7 @@ Automated ARB (Anti-Rollback) index tracker for OnePlus devices. This repository
 | EG | CPH2305 | CPH2305_11_A.19 | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-02-04 | ✅ |
 | OCA | CPH2305 | CPH2305_11_A.22 | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-02-04 | ✅ |
 | SG | CPH2305 | CPH2305_16.0.3.501(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-02-26 | ✅ |
-| TW | CPH2305 | CPH2305_15.0.0.1301(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-02-04 | ✅ |
+| TW | CPH2305 | CPH2305_16.0.3.510(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-03-31 | ✅ |
 
 ---
 
