@@ -1,13 +1,22 @@
 {
   "history": [
     {
+      "version": "PJZ110_16.0.5.703(CN01)",
+      "arb": 1,
+      "major": 3,
+      "minor": 0,
+      "first_seen": "2026-04-15",
+      "last_checked": "2026-04-15",
+      "status": "current"
+    },
+    {
       "version": "PJZ110_16.0.5.702(CN01)",
       "arb": 1,
       "major": 3,
       "minor": 0,
       "first_seen": "2026-04-09",
       "last_checked": "2026-04-09",
-      "status": "current"
+      "status": "archived"
     },
     {
       "version": "PJZ110_16.0.5.701(CN01)",

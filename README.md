@@ -78,7 +78,7 @@ Automated ARB (Anti-Rollback) index tracker for OnePlus devices. This repository
 | Europe | CPH2649 | CPH2653_16.0.5.701(EX01) | **1** | Major: **3**,&nbsp;Minor: **0** | 2026-03-25 | ❌ |
 | India | CPH2649 | CPH2649_16.0.5.703(EX01) | **1** | Major: **3**,&nbsp;Minor: **0** | 2026-04-14 | ❌ |
 | NA | CPH2655 | CPH2655_15.0.0.832(EX01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-02-04 | ✅ |
-| China | PJZ110 | PJZ110_16.0.5.702(CN01) | **1** | Major: **3**,&nbsp;Minor: **0** | 2026-04-09 | ❌ |
+| China | PJZ110 | PJZ110_16.0.5.703(CN01) | **1** | Major: **3**,&nbsp;Minor: **0** | 2026-04-15 | ❌ |
 
 ---
 
@@ -110,7 +110,7 @@ Automated ARB (Anti-Rollback) index tracker for OnePlus devices. This repository
 |--------|-------|------------------|-----------|-------------|--------------|------|
 | Global | CPH2585 | CPH2609_16.0.3.500(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-02-23 | ✅ |
 | Europe | CPH2609 | CPH2609_16.0.3.500(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-02-12 | ✅ |
-| India | CPH2585 | CPH2585_16.0.3.500(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-02-04 | ✅ |
+| India | CPH2585 | CPH2585_16.0.5.701(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-04-15 | ✅ |
 | NA | CPH2611 | CPH2611_11_A.65 | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-02-04 | ✅ |
 
 ---
@@ -235,7 +235,7 @@ Automated ARB (Anti-Rollback) index tracker for OnePlus devices. This repository
 
 | Region | Model | Firmware Version | ARB Index | OEM Version | Last Checked | Safe |
 |--------|-------|------------------|-----------|-------------|--------------|------|
-| Europe | CPH2305 | CPH2305_15.0.0.1303(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-02-04 | ✅ |
+| Europe | CPH2305 | CPH2305_16.0.3.510(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-04-15 | ✅ |
 | EG | CPH2305 | CPH2305_11_A.19 | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-02-04 | ✅ |
 | OCA | CPH2305 | CPH2305_11_A.22 | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-02-04 | ✅ |
 | SG | CPH2305 | CPH2305_16.0.3.501(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-02-26 | ✅ |
