@@ -1,13 +1,22 @@
 {
   "history": [
     {
+      "version": "PKG110_16.0.5.702(CN01)",
+      "arb": 1,
+      "major": 3,
+      "minor": 0,
+      "first_seen": "2026-04-17",
+      "last_checked": "2026-04-17",
+      "status": "current"
+    },
+    {
       "version": "PKG110_16.0.5.701(CN01)",
       "arb": 1,
       "major": 3,
       "minor": 0,
       "first_seen": "2026-03-24",
       "last_checked": "2026-03-24",
-      "status": "current"
+      "status": "archived"
     },
     {
       "version": "PKG110_16.0.2.400(CN01)",

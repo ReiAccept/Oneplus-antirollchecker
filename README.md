@@ -58,7 +58,7 @@ Automated ARB (Anti-Rollback) index tracker for OnePlus devices. This repository
 
 | Region | Model | Firmware Version | ARB Index | OEM Version | Last Checked | Safe |
 |--------|-------|------------------|-----------|-------------|--------------|------|
-| China | PKR110 | PKR110_16.0.5.700(CN01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-03-24 | ✅ |
+| China | PKR110 | PKR110_16.0.5.701(CN01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-04-17 | ✅ |
 
 ---
 
@@ -66,7 +66,7 @@ Automated ARB (Anti-Rollback) index tracker for OnePlus devices. This repository
 
 | Region | Model | Firmware Version | ARB Index | OEM Version | Last Checked | Safe |
 |--------|-------|------------------|-----------|-------------|--------------|------|
-| China | PKG110 | PKG110_16.0.5.701(CN01) | **1** | Major: **3**,&nbsp;Minor: **0** | 2026-03-24 | ❌ |
+| China | PKG110 | PKG110_16.0.5.702(CN01) | **1** | Major: **3**,&nbsp;Minor: **0** | 2026-04-17 | ❌ |
 
 ---
 
