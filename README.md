@@ -28,8 +28,8 @@ Automated ARB (Anti-Rollback) index tracker for OnePlus devices. This repository
 
 | Region | Model | Firmware Version | ARB Index | OEM Version | Last Checked | Safe |
 |--------|-------|------------------|-----------|-------------|--------------|------|
-| Global | CPH2747 | CPH2747_16.0.5.700(EX01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-03-17 | ✅ |
-| Europe | CPH2747 | CPH2747_16.0.5.700(EX01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-03-17 | ✅ |
+| Global | CPH2747 | CPH2747_16.0.5.703(EX01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-04-25 | ✅ |
+| Europe | CPH2747 | CPH2747_16.0.5.703(EX01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-04-25 | ✅ |
 | India | CPH2745 | CPH2745_16.0.5.703(EX01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-04-21 | ✅ |
 | China | PLK110 | PLK110_16.0.5.702(CN01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-04-21 | ✅ |
 
@@ -108,8 +108,8 @@ Automated ARB (Anti-Rollback) index tracker for OnePlus devices. This repository
 
 | Region | Model | Firmware Version | ARB Index | OEM Version | Last Checked | Safe |
 |--------|-------|------------------|-----------|-------------|--------------|------|
-| Global | CPH2585 | CPH2609_16.0.3.500(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-02-23 | ✅ |
-| Europe | CPH2609 | CPH2609_16.0.3.500(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-02-12 | ✅ |
+| Global | CPH2585 | CPH2609_16.0.5.701(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-04-25 | ✅ |
+| Europe | CPH2609 | CPH2609_16.0.5.701(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-04-25 | ✅ |
 | India | CPH2585 | CPH2585_16.0.5.701(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-04-15 | ✅ |
 | NA | CPH2611 | CPH2611_11_A.65 | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-02-04 | ✅ |
 
@@ -162,7 +162,7 @@ Automated ARB (Anti-Rollback) index tracker for OnePlus devices. This repository
 |--------|-------|------------------|-----------|-------------|--------------|------|
 | Global | CPH2417 | CPH2415_15.0.0.1603(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-02-10 | ✅ |
 | Europe | CPH2415 | CPH2415_15.0.0.1603(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-02-11 | ✅ |
-| India | CPH2413 | CPH2413_15.0.0.1603(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-02-06 | ✅ |
+| India | CPH2413 | CPH2413_15.0.0.1800(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-04-25 | ✅ |
 | NA | CPH2417 | CPH2417_11_C.46 | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-02-04 | ✅ |
 
 ---
