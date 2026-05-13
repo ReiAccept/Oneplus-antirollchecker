@@ -110,7 +110,7 @@ Automated ARB (Anti-Rollback) index tracker for OnePlus devices. This repository
 |--------|-------|------------------|-----------|-------------|--------------|------|
 | Global | CPH2585 | CPH2609_16.0.5.701(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-04-25 | ✅ |
 | Europe | CPH2609 | CPH2609_16.0.5.701(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-04-25 | ✅ |
-| India | CPH2585 | CPH2585_16.0.5.701(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-04-15 | ✅ |
+| India | CPH2585 | CPH2585_16.0.5.702(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-05-13 | ✅ |
 | NA | CPH2611 | CPH2611_11_A.65 | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-02-04 | ✅ |
 
 ---
