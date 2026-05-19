@@ -10,7 +10,7 @@ Automated ARB (Anti-Rollback) index tracker for OnePlus devices. This repository
 
 | Region | Model | Firmware Version | ARB Index | OEM Version | Last Checked | Safe |
 |--------|-------|------------------|-----------|-------------|--------------|------|
-| Global | CPH2741 | CPH2769_16.0.5.701(EX01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-03-19 | ✅ |
+| Global | CPH2741 | CPH2769_16.0.7.200(EX01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-05-19 | ✅ |
 | Europe | CPH2741 | CPH2769_16.0.5.703(EX01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-04-21 | ✅ |
 | India | CPH2741 | CPH2767_16.0.5.701(EX01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-03-19 | ✅ |
 
@@ -28,7 +28,7 @@ Automated ARB (Anti-Rollback) index tracker for OnePlus devices. This repository
 
 | Region | Model | Firmware Version | ARB Index | OEM Version | Last Checked | Safe |
 |--------|-------|------------------|-----------|-------------|--------------|------|
-| Global | CPH2747 | CPH2747_16.0.5.703(EX01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-04-25 | ✅ |
+| Global | CPH2747 | CPH2747_16.0.7.201(EX01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-05-19 | ✅ |
 | Europe | CPH2747 | CPH2747_16.0.5.703(EX01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-04-25 | ✅ |
 | India | CPH2745 | CPH2745_16.0.7.201(EX01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-05-10 | ✅ |
 | China | PLK110 | PLK110_16.0.7.206(CN01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-05-09 | ✅ |
@@ -41,7 +41,7 @@ Automated ARB (Anti-Rollback) index tracker for OnePlus devices. This repository
 |--------|-------|------------------|-----------|-------------|--------------|------|
 | Global | OPD2415 | OPD2415_16.0.5.700(EX01) | **1** | Major: **3**,&nbsp;Minor: **0** | 2026-03-27 | ❌ |
 | Europe | OPD2415 | OPD2415_16.0.5.700(EX01) | **1** | Major: **3**,&nbsp;Minor: **0** | 2026-03-27 | ❌ |
-| India | OPD2415 | OPD2415_16.0.5.700(EX01) | **1** | Major: **3**,&nbsp;Minor: **0** | 2026-03-26 | ❌ |
+| India | OPD2415 | OPD2415_16.0.7.200(EX01) | **1** | Major: **3**,&nbsp;Minor: **0** | 2026-05-19 | ❌ |
 | NA | OPD2415 | OPD2415_15.0.1.500(EX01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-02-04 | ✅ |
 
 ---
