@@ -11,7 +11,7 @@ Automated ARB (Anti-Rollback) index tracker for OnePlus devices. This repository
 | Region | Model | Firmware Version | ARB Index | OEM Version | Last Checked | Safe |
 |--------|-------|------------------|-----------|-------------|--------------|------|
 | Global | CPH2741 | CPH2769_16.0.7.200(EX01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-05-19 | ✅ |
-| Europe | CPH2741 | CPH2769_16.0.5.703(EX01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-04-21 | ✅ |
+| Europe | CPH2741 | CPH2769_16.0.7.200(EX01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-05-21 | ✅ |
 | India | CPH2741 | CPH2767_16.0.5.701(EX01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-03-19 | ✅ |
 
 ---
@@ -87,7 +87,7 @@ Automated ARB (Anti-Rollback) index tracker for OnePlus devices. This repository
 | Region | Model | Firmware Version | ARB Index | OEM Version | Last Checked | Safe |
 |--------|-------|------------------|-----------|-------------|--------------|------|
 | Global | OPD2403 | OPD2403_16.0.5.701(EX01) | **1** | Major: **3**,&nbsp;Minor: **0** | 2026-03-27 | ❌ |
-| Europe | OPD2403 | OPD2403_16.0.5.701(EX01) | **1** | Major: **3**,&nbsp;Minor: **0** | 2026-03-27 | ❌ |
+| Europe | OPD2403 | OPD2403_16.0.5.702(EX01) | **1** | Major: **3**,&nbsp;Minor: **0** | 2026-05-21 | ❌ |
 | India | OPD2403 | OPD2403_16.0.5.702(EX01) | **1** | Major: **3**,&nbsp;Minor: **0** | 2026-05-20 | ❌ |
 
 ---
@@ -211,9 +211,9 @@ Automated ARB (Anti-Rollback) index tracker for OnePlus devices. This repository
 | APC | CPH2671 | CPH2671_16.0.5.700(EX01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-03-26 | ✅ |
 | ID | CPH2671 | CPH2671_16.0.7.200(EX01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-05-20 | ✅ |
 | MX | CPH2671 | CPH2671_16.0.5.700(EX01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-03-26 | ✅ |
-| MY | CPH2671 | CPH2671_16.0.5.700(EX01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-03-26 | ✅ |
-| SG | CPH2671 | CPH2671_16.0.5.700(EX01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-03-26 | ✅ |
-| TH | CPH2671 | CPH2671_16.0.5.700(EX01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-03-26 | ✅ |
+| MY | CPH2671 | CPH2671_16.0.7.200(EX01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-05-21 | ✅ |
+| SG | CPH2671 | CPH2671_16.0.7.200(EX01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-05-21 | ✅ |
+| TH | CPH2671 | CPH2671_16.0.7.200(EX01) | **0** | Major: **3**,&nbsp;Minor: **0** | 2026-05-21 | ✅ |
 
 ---
 
