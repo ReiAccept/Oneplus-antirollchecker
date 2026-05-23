@@ -1,6 +1,15 @@
 {
   "history": [
     {
+      "version": "PJD110_16.0.5.702(CN01)",
+      "arb": 1,
+      "major": 3,
+      "minor": 0,
+      "first_seen": "2026-05-23",
+      "last_checked": "2026-05-23",
+      "status": "current"
+    },
+    {
       "version": "PJD110_16.0.0.201(CN01)",
       "arb": 0,
       "major": 3,
@@ -25,7 +34,7 @@
       "minor": 0,
       "first_seen": "2026-02-02",
       "last_checked": "2026-02-04",
-      "status": "current"
+      "status": "archived"
     }
   ],
   "device": "OnePlus 12",
