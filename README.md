@@ -119,7 +119,7 @@ Automated ARB (Anti-Rollback) index tracker for OnePlus devices. This repository
 
 | Region | Model | Firmware Version | ARB Index | OEM Version | Last Checked | Safe |
 |--------|-------|------------------|-----------|-------------|--------------|------|
-| Europe | CPH2551 | CPH2551_16.0.3.505(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-03-22 | ✅ |
+| Europe | CPH2551 | CPH2551_16.0.5.701(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-05-30 | ✅ |
 | India | CPH2551 | CPH2551_16.0.5.701(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-05-26 | ✅ |
 | NA | CPH2551 | CPH2551_15.0.0.822(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-02-04 | ✅ |
 
@@ -222,12 +222,12 @@ Automated ARB (Anti-Rollback) index tracker for OnePlus devices. This repository
 | Region | Model | Firmware Version | ARB Index | OEM Version | Last Checked | Safe |
 |--------|-------|------------------|-----------|-------------|--------------|------|
 | ID | CPH2499 | CPH2499_16.0.5.701(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-05-27 | ✅ |
-| MY | CPH2499 | CPH2499_16.0.3.505(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-03-24 | ✅ |
+| MY | CPH2499 | CPH2499_16.0.5.701(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-05-30 | ✅ |
 | OCA | CPH2499 | CPH2499_16.0.3.505(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-03-25 | ✅ |
-| SG | CPH2499 | CPH2499_16.0.3.505(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-03-22 | ✅ |
-| TH | CPH2499 | CPH2499_16.0.3.505(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-03-22 | ✅ |
-| TW | CPH2499 | CPH2499_16.0.3.505(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-03-24 | ✅ |
-| VN | CPH2499 | CPH2499_16.0.3.505(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-03-22 | ✅ |
+| SG | CPH2499 | CPH2499_16.0.5.701(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-05-30 | ✅ |
+| TH | CPH2499 | CPH2499_16.0.5.701(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-05-30 | ✅ |
+| TW | CPH2499 | CPH2499_16.0.5.701(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-05-30 | ✅ |
+| VN | CPH2499 | CPH2499_16.0.5.701(EX01) | **0** | Major: **2**,&nbsp;Minor: **0** | 2026-05-30 | ✅ |
 
 ---
 
