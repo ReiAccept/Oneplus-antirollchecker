@@ -1,13 +1,22 @@
 {
   "history": [
     {
+      "version": "CPH2649_16.0.8.301(EX01)",
+      "arb": 1,
+      "major": 3,
+      "minor": 0,
+      "first_seen": "2026-06-13",
+      "last_checked": "2026-06-13",
+      "status": "current"
+    },
+    {
       "version": "CPH2649_16.0.7.201(EX01)",
       "arb": 1,
       "major": 3,
       "minor": 0,
       "first_seen": "2026-05-15",
       "last_checked": "2026-05-15",
-      "status": "current"
+      "status": "archived"
     },
     {
       "version": "CPH2649_16.0.5.703(EX01)",
